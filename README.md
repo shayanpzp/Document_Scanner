@@ -47,13 +47,13 @@ git clone https://github.com/shayanpzp/Document_Scanner.git
 2. Navigate to the project directory:
 
 ```bash
-cd to-repository
+cd Document_Scanner
 ```
 
 3. Run the Python script:
 
 ```bash
-python document_scanner.py
+python Scanner.py
 ```
 4. Follow the on-screen instructions to use the paper scanner.
 
